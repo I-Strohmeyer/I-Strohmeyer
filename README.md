@@ -4,10 +4,8 @@
 </picture>
 <h3>👩 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Finished my Full-Stack Web Development Bootcamp.
-- 💼 &nbsp; Looking for a job opportunity.
-- 🌱 &nbsp; Learning more about JS Frameworks.
-
+Junior Frontend-developer with background of Customer Support and Software Testing.
+Interested to hear more? Let's talk!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
