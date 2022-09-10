@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3>👩 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Finished my Full-Stack Web Development Bootcamp.
 - 💼 &nbsp; Looking for a job opportunity.
