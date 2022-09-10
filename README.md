@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 🎓 &nbsp; Finished my Full-Stack Web Development Bootcamp.
 - 💼 &nbsp; Looking for a job opportunity.
 - 🌱 &nbsp; Learning more about JS Frameworks.
 
