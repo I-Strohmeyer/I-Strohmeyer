@@ -1,9 +1,7 @@
 # Hi there 👋
-
 <picture>
   <img alt="Pc with code" src="https://raw.githubusercontent.com/I-Strohmeyer/I-Strohmeyer/main/img/code-pc.PNG" width="50%" height="100%">
 </picture>
-
 <h3>👩 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Finished my Full-Stack Web Development Bootcamp.
