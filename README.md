@@ -31,7 +31,7 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
-  ![Figma](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=figma)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 <br/>
 
