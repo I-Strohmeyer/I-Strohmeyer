@@ -5,6 +5,7 @@
 <h3>👩 &nbsp;About Me </h3>
 
 Junior Frontend-developer with background of Customer Support and Software Testing.
+
 Interested to hear more? Let's talk!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
